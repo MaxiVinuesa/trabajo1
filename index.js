@@ -3,6 +3,12 @@ let fecha = new Date();
 
 const tareas = [];
 
+
+const nombre2 = "Maxi";
+console.log("Hola.");
+
+
+
 let nombre, opc=0, opc1=0, control=0, control1=0, bandera=1, identificador=0, contador=0, tareasSimilares=0; 
 let opc2 = 0;
 let opc3 = " ";
