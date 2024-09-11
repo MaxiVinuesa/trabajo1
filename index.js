@@ -2,9 +2,8 @@ const scc = require('prompt-sync')();
 let fecha = new Date();
 
 const tareas = [];
+const nombre2 = "Brayan el master";
 
-
-const nombre2 = "Maxi";
 console.log("Hola.");
 
 
